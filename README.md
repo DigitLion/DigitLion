@@ -1,15 +1,37 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=header&text=Mingyi%20Liu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Engineer%20%C3%97%20Robotics%20%C3%97%20Independent%20Researcher&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Mingyi Liu" />
+
 <div align="center">
 
-# Hey, I'm Mingyi Liu 👋
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=667EEA&center=true&vCenter=true&random=false&width=640&lines=Building+AI+Agents+that+think+%26+act;From+gas+turbines+to+neural+networks;Response+homogenization+discoverer;Bridging+robotics+%26+intelligence" alt="Typing animation" />
 
-**`AI Agent Engineer × Robotics × Independent Researcher`**
+<br><br>
 
+<!-- Social & Links -->
 [![arXiv](https://img.shields.io/badge/arXiv-2603.xxxxx-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.xxxxx)
-[![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=for-the-badge&logo=github)](https://github.com/DigitLion)
+[![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigitLion)
+[![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liumingyi1993@163.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+that+think+%26+act;From+gas+turbines+to+neural+networks;Response+homogenization+discoverer;Bridging+robotics+%26+intelligence" alt="Typing SVG" />
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DigitLion&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+### 👋 About Me
+
+```yaml
+name: Mingyi Liu
+location: China
+focus: AI Agents · Robotics · LLM Alignment
+currently: Independent Researcher
+fun_fact: Started in gas turbine DCS, now building agents that think & act
+```
+
+I'm an **AI Agent Engineer** and **independent researcher** working at the intersection of embodied intelligence, multi-agent systems, and LLM alignment. My research explores how alignment methods reshape model behavior — and what that means for real-world uncertainty estimation.
 
 ---
 
@@ -17,19 +39,23 @@
 
 <table>
 <tr>
-<td width="60">📄</td>
+<td width="72" align="center"><br><br>📄<br><br></td>
 <td>
 
-**The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation**
+#### [The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation](https://arxiv.org/abs/2603.xxxxx)
 
-*arXiv 2026* · cs.LG · cs.AI · cs.CL
+*arXiv 2026* · `cs.LG` · `cs.AI` · `cs.CL`
 
-RLHF-aligned LLMs exhibit **response homogenization** — 40-79% of questions collapse to a single semantic cluster, breaking sampling-based uncertainty estimation. DPO is the cause, not SFT. Token entropy survives.
+RLHF-aligned LLMs exhibit **response homogenization** — 40–79% of questions collapse to a single semantic cluster, breaking sampling-based uncertainty estimation. **DPO is the cause, not SFT.** Token entropy survives.
 
-`22 experiments` · `5 benchmarks` · `4 model families` · `3B-14B scale`
+<br>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv)](https://arxiv.org/abs/2603.xxxxx)
-[![Code](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/DigitLion/ucbd-experiment)
+`22 experiments` · `5 benchmarks` · `4 model families` · `3B–14B scale`
+
+<br>
+
+[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.xxxxx)
+[![Code](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DigitLion/ucbd-experiment)
 
 </td>
 </tr>
@@ -41,26 +67,29 @@ RLHF-aligned LLMs exhibit **response homogenization** — 40-79% of questions co
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MLX](https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,ts,docker,linux,git,github&theme=dark&perline=8" alt="Tech stack icons" />
+
+<br><br>
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DigitLion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DigitLion&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DigitLion&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DigitLion&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub streak"/>
+
+<br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitLion&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=DigitLion&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" alt="Activity graph"/>
 
 </div>
 
@@ -68,20 +97,32 @@ RLHF-aligned LLMs exhibit **response homogenization** — 40-79% of questions co
 
 ### 🚀 Journey
 
-```
-2019  ┃  Gas Turbine DCS Control Systems     ← Where it started
-2021  ┃  ROS Robotics & Autonomous Navigation
-2023  ┃  Embodied Intelligence & Digital Twin
-2025  ┃  AI Agents & Multi-Agent Systems      ← Where it's going
-2026  ┃  First arXiv paper 🎉
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#667eea', 'primaryTextColor': '#fff', 'primaryBorderColor': '#764ba2', 'lineColor': '#764ba2', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d1117'}}}%%
+timeline
+    title Research & Engineering Path
+    2019 : Gas Turbine DCS Control Systems
+         : Where it all started
+    2021 : ROS Robotics & Autonomous Navigation
+    2023 : Embodied Intelligence & Digital Twin
+    2025 : AI Agents & Multi-Agent Systems
+    2026 : First arXiv paper 🎉
+         : Response Homogenization in Aligned LLMs
 ```
 
 ---
 
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer" />
+
 <div align="center">
 
-*"The only way to do great work is to love what you do."*
+*"The only way to do great work is to love what you do."* — Steve Jobs
 
-[![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liumingyi1993@163.com)
+<br><br>
+
+[![arXiv](https://img.shields.io/badge/arXiv-2603.xxxxx-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.xxxxx)
+[![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=flat-square&logo=github)](https://github.com/DigitLion)
+[![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=flat-square&logo=gmail)](mailto:liumingyi1993@163.com)
 
 </div>
