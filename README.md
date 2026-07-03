@@ -9,7 +9,7 @@
 <br><br>
 
 <!-- Social & Links -->
-[![arXiv](https://img.shields.io/badge/arXiv-2603.xxxxx-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.24124-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24124)
 [![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigitLion)
 [![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liumingyi1993@163.com)
 
@@ -42,7 +42,7 @@ I'm an **AI Agent Engineer** and **independent researcher** working at the inter
 <td width="72" align="center"><br><br>📄<br><br></td>
 <td>
 
-#### [The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation](https://arxiv.org/abs/2603.xxxxx)
+#### [The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation](https://arxiv.org/abs/2603.24124)
 
 *arXiv 2026* · `cs.LG` · `cs.AI` · `cs.CL`
 
@@ -54,12 +54,27 @@ RLHF-aligned LLMs exhibit **response homogenization** — 40–79% of questions 
 
 <br>
 
-[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.xxxxx)
+[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24124)
 [![Code](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DigitLion/ucbd-experiment)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>📚 Cite this work (BibTeX)</b></summary>
+
+```bibtex
+@article{liu2026alignmenttax,
+  title={The Alignment Tax: Response Homogenization in Aligned LLMs
+         and Its Implications for Uncertainty Estimation},
+  author={Liu, Mingyi},
+  journal={arXiv preprint arXiv:2603.24124},
+  year={2026}
+}
+```
+
+</details>
 
 ---
 
@@ -79,16 +94,31 @@ RLHF-aligned LLMs exhibit **response homogenization** — 40–79% of questions 
 
 ---
 
+### 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/DigitLion/ucbd-experiment">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DigitLion&repo=ucbd-experiment&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="ucbd-experiment" />
+</a>
+<a href="https://github.com/DigitLion/Fast-Drone-250-450">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DigitLion&repo=Fast-Drone-250-450&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Fast-Drone-250-450" />
+</a>
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DigitLion&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DigitLion&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub streak"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DigitLion&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=DigitLion&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub streak"/>
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitLion&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DigitLion&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
 <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=DigitLion&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" alt="Activity graph"/>
 
 </div>
@@ -121,7 +151,7 @@ timeline
 
 <br><br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.xxxxx-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.24124-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.24124)
 [![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=flat-square&logo=github)](https://github.com/DigitLion)
 [![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=flat-square&logo=gmail)](mailto:liumingyi1993@163.com)
 
