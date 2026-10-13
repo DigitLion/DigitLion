@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="divider">
+<defs>
+<style>
+.sg{font-family:'SG',ui-sans-serif,system-ui,sans-serif}
+.jb{font-family:'JB',ui-monospace,SFMono-Regular,Menlo,monospace;white-space:pre}
+.jbb{font-family:'JBB',ui-monospace,SFMono-Regular,Menlo,monospace;white-space:pre}
+.in{font-family:'IN',ui-sans-serif,system-ui,sans-serif}
+.ins{font-family:'INS',ui-sans-serif,system-ui,sans-serif}
+
+.comet{animation:run 5s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes run{from{transform:translateX(-220px)}80%,100%{transform:translateX(1060px)}}
+.dm{transform-box:fill-box;transform-origin:center;animation:pulse 2.5s ease-in-out infinite}
+@keyframes pulse{50%{transform:scale(1.4)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#667eea" stop-opacity="0"/><stop offset=".25" stop-color="#667eea" stop-opacity=".55"/><stop offset=".5" stop-color="#764ba2" stop-opacity=".7"/><stop offset=".75" stop-color="#22d3ee" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="cm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".8" stop-color="#a78bfa" stop-opacity=".9"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
+<linearGradient id="dmg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="28"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect x="0" y="13.5" width="1000" height="1" fill="url(#ln)"/>
+<g class="comet"><rect x="0" y="12.5" width="180" height="3" rx="1.5" fill="url(#cm)"/><circle cx="180" cy="14" r="3" fill="#f0abfc"/></g>
+<path class="dm" d="M500,7 L507,14 L500,21 L493,14Z" fill="url(#dmg)"/>
+</g>
+</svg>
