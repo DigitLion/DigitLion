@@ -1,65 +1,35 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=header&text=Mingyi%20Liu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20Engineer%20%C3%97%20Robotics%20%C3%97%20Independent%20Researcher&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Mingyi Liu" />
+<!-- Animated cards are self-contained SVGs in ./assets (CSS/SMIL animation, embedded subset fonts). -->
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Mingyi Liu — AI Agent Engineer × Robotics × Independent Researcher" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.24124"><img src="https://img.shields.io/badge/arXiv-2603.24124-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=0d1117" alt="arXiv 2603.24124" /></a>
+  <a href="mailto:liumingyi1993@163.com"><img src="https://img.shields.io/badge/Email-liumingyi1993@163.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://github.com/DigitLion?tab=followers"><img src="https://img.shields.io/github/followers/DigitLion?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=764ba2" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DigitLion&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=667EEA&center=true&vCenter=true&random=false&width=640&lines=Building+AI+Agents+that+think+%26+act;From+gas+turbines+to+neural+networks;Response+homogenization+discoverer;Bridging+robotics+%26+intelligence" alt="Typing animation" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<br><br>
+### ⚡ About Me
 
-<!-- Social & Links -->
-[![arXiv](https://img.shields.io/badge/arXiv-2603.24124-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24124)
-[![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigitLion)
-[![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liumingyi1993@163.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DigitLion&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-### 👋 About Me
-
-```yaml
-name: Mingyi Liu
-location: China
-focus: AI Agents · Robotics · LLM Alignment
-currently: Independent Researcher
-fun_fact: Started in gas turbine DCS, now building agents that think & act
-```
+<img src="./assets/terminal.svg" width="100%" alt="Terminal session: whoami — Mingyi Liu, AI Agent Engineer and independent researcher in China, focused on AI agents, robotics and LLM alignment." />
 
 I'm an **AI Agent Engineer** and **independent researcher** working at the intersection of embodied intelligence, multi-agent systems, and LLM alignment. My research explores how alignment methods reshape model behavior — and what that means for real-world uncertainty estimation.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 🔬 Latest Research
 
-<table>
-<tr>
-<td width="72" align="center"><br><br>📄<br><br></td>
-<td>
+<a href="https://arxiv.org/abs/2603.24124">
+  <img src="./assets/research.svg" width="100%" alt="The Alignment Tax: sampled responses collapse from five semantic clusters to one after DPO. 40–79% of questions collapse to a single semantic cluster; DPO is the cause, not SFT; token entropy survives." />
+</a>
 
-#### [The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation](https://arxiv.org/abs/2603.24124)
-
-*arXiv 2026* · `cs.LG` · `cs.AI` · `cs.CL`
-
-RLHF-aligned LLMs exhibit **response homogenization** — 40–79% of questions collapse to a single semantic cluster, breaking sampling-based uncertainty estimation. **DPO is the cause, not SFT.** Token entropy survives.
-
-<br>
-
-`22 experiments` · `5 benchmarks` · `4 model families` · `3B–14B scale`
-
-<br>
-
-[![Paper](https://img.shields.io/badge/📄_Paper-arXiv-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.24124)
-[![Code](https://img.shields.io/badge/💻_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DigitLion/ucbd-experiment)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://arxiv.org/abs/2603.24124"><img src="https://img.shields.io/badge/📄_Read_the_paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=0d1117" alt="Paper" /></a>
+  <a href="https://github.com/DigitLion/ucbd-experiment"><img src="https://img.shields.io/badge/💻_Code-ucbd--experiment-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Code" /></a>
+</p>
 
 <details>
 <summary><b>📚 Cite this work (BibTeX)</b></summary>
@@ -76,83 +46,46 @@ RLHF-aligned LLMs exhibit **response homogenization** — 40–79% of questions 
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<img src="./assets/tech-orbit.svg" width="100%" alt="Tech stack in orbit — AI/ML: Python, PyTorch, MLX, Ollama. Systems & robotics: ROS, C++, TypeScript, Docker, Linux, Git, GitHub." />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,ts,docker,linux,git,github&theme=dark&perline=8" alt="Tech stack icons" />
-
-<br><br>
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 💻 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/DigitLion/ucbd-experiment"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigitLion&repo=ucbd-experiment&bg_color=0d1117&title_color=a5b4fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d&border_radius=16" alt="ucbd-experiment" /></a>
+  <a href="https://github.com/DigitLion/Fast-Drone-250-450"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigitLion&repo=Fast-Drone-250-450&bg_color=0d1117&title_color=a5b4fc&icon_color=c084fc&text_color=c9d1d9&border_color=30363d&border_radius=16" alt="Fast-Drone-250-450" /></a>
+</p>
 
-<a href="https://github.com/DigitLion/ucbd-experiment">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DigitLion&repo=ucbd-experiment&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="ucbd-experiment" />
-</a>
-<a href="https://github.com/DigitLion/Fast-Drone-250-450">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DigitLion&repo=Fast-Drone-250-450&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Fast-Drone-250-450" />
-</a>
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DigitLion&card_width=495&show_icons=true&bg_color=0d1117&title_color=a5b4fc&icon_color=c084fc&text_color=c9d1d9&ring_color=764ba2&border_color=30363d&border_radius=16" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DigitLion&background=0D1117&border=30363D&stroke=30363D&ring=764BA2&fire=F472B6&currStreakNum=A5B4FC&sideNums=A5B4FC&currStreakLabel=C084FC&sideLabels=C9D1D9&dates=8B949E&border_radius=16" alt="GitHub streak" />
+</p>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DigitLion&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=DigitLion&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitLion&layout=compact&langs_count=8&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&border_color=30363d&border_radius=16" alt="Top languages" />
+</p>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DigitLion/DigitLion/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DigitLion/DigitLion/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DigitLion/DigitLion/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DigitLion&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=DigitLion&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true" alt="Activity graph"/>
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### 🚀 Journey
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#667eea', 'primaryTextColor': '#fff', 'primaryBorderColor': '#764ba2', 'lineColor': '#764ba2', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d1117'}}}%%
-timeline
-    title Research & Engineering Path
-    2019 : Gas Turbine DCS Control Systems
-         : Where it all started
-    2021 : ROS Robotics & Autonomous Navigation
-    2023 : Embodied Intelligence & Digital Twin
-    2025 : AI Agents & Multi-Agent Systems
-    2026 : First arXiv paper 🎉
-         : Response Homogenization in Aligned LLMs
-```
+<img src="./assets/journey.svg" width="100%" alt="Journey: 2019 Gas Turbine DCS → 2021 ROS Robotics → 2023 Embodied Intelligence → 2025 AI Agents → 2026 first arXiv paper, The Alignment Tax." />
 
----
+<p align="center"><i>"The only way to do great work is to love what you do." — Steve Jobs</i></p>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer" />
-
-<div align="center">
-
-*"The only way to do great work is to love what you do."* — Steve Jobs
-
-<br><br>
-
-[![arXiv](https://img.shields.io/badge/arXiv-2603.24124-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.24124)
-[![GitHub](https://img.shields.io/badge/GitHub-DigitLion-181717?style=flat-square&logo=github)](https://github.com/DigitLion)
-[![Email](https://img.shields.io/badge/Email-liumingyi1993@163.com-EA4335?style=flat-square&logo=gmail)](mailto:liumingyi1993@163.com)
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting!" />
