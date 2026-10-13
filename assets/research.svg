@@ -13,6 +13,7 @@
 @keyframes collapse{0%,24%{transform:translate(0,0);fill:var(--c)}40%,72%{transform:translate(var(--dx),var(--dy));fill:#c4b5fd}88%,100%{transform:translate(0,0);fill:var(--c)}}
 .hull{fill:none;stroke-width:1.2;stroke-dasharray:3 5;stroke-opacity:.55;animation:show 10s ease-in-out infinite}
 @keyframes show{0%,22%{opacity:1}30%,80%{opacity:0}88%,100%{opacity:1}}
+.l2,.hullC,.ripple{opacity:0}
 .l2,.hullC{animation:hide 10s ease-in-out infinite}
 @keyframes hide{0%,30%{opacity:0}38%,72%{opacity:1}80%,100%{opacity:0}}
 .l1{animation:show 10s ease-in-out infinite}
